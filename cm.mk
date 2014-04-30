@@ -13,6 +13,6 @@ $(call inherit-product, device/zte/elden/device_elden.mk)
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := elden
 PRODUCT_NAME := cm_elden
-PRODUCT_BRAND := zte
-PRODUCT_MODEL := elden
-PRODUCT_MANUFACTURER := zte
+PRODUCT_BRAND := MetroPCS
+PRODUCT_MODEL := ZTE N9120
+PRODUCT_MANUFACTURER := ZTE
